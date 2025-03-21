@@ -1,2 +1,2 @@
 def log(message) -> None:
-    pass
+    pass  # ToDo: Implement function properly
